@@ -1,4 +1,4 @@
-start C:\Users\Piotr\Desktop\Programy\Audacity.exe
+start (lokalizacja)
 start auda.vbs
 echo X) Zakoncz dzialanie
 echo Z) Wroc do wyboru 
