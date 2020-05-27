@@ -1,4 +1,4 @@
-start discord.exe
+start (lokalizacja)
 start komdsc.vbs
 echo X) Zakoncz dzialanie
 echo Z) Wroc do wyboru 
