@@ -1,4 +1,4 @@
-start C:\Program Files\Blackmagic Design\DaVinci Resolve\Resolve.exe
+start (Lokalizacja pliku)
 start davinci.vbs
 echo X) Zakoncz dzialanie
 echo Z) Wroc do wyboru 
