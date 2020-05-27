@@ -1,0 +1,1 @@
+Otworz plik .bat za pomoca notatnika i skonfiguruj wg Informacji nie zapisujac ( i )
