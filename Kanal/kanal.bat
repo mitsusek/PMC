@@ -1,4 +1,4 @@
-start https://www.youtube.com/channel/UCZ4xdJQJMxH2jysM09n2CxQ/
+start (Adres url kanalu)
 echo X) Zakoncz dzialanie
 echo Z) Wroc do wyboru 
 set /p Menu=">> "
