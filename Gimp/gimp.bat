@@ -1,4 +1,4 @@
-start C:\Users\Piotr\Desktop\Programy\GIMP 2\bin\gimp-2.10.exe
+start (lokalizacja)
 start gimp.vbs
 echo X) Zakoncz dzialanie
 echo Z) Wroc do wyboru 
